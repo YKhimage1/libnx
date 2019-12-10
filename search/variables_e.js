@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['nacp',['nacp',['../structNsApplicationControlData.html#a3adb7c9accbbb4c91d4862795547c330',1,'NsApplicationControlData']]],
+  ['name',['name',['../structromfs__dir.html#a6ed4ff98dc9ecd76817c22535e609dd9',1,'romfs_dir::name()'],['../structromfs__file.html#af57dc6163f36453bdbfb8a3c0251c2ed',1,'romfs_file::name()'],['../structFriendsInAppScreenName.html#a09773d7a1d570a158bf001f1eaa2f7aa',1,'FriendsInAppScreenName::name()'],['../structFsDirectoryEntry.html#acde20e971f0b81203b85c98f375760eb',1,'FsDirectoryEntry::name()']]],
+  ['namelen',['nameLen',['../structromfs__dir.html#a23aa470d929a32b6dfd11ae63fa2d933',1,'romfs_dir::nameLen()'],['../structromfs__file.html#a690d35645dd2a707bfb7ed4e2425b6b6',1,'romfs_file::nameLen()']]],
+  ['network_5fclock_5ftime',['network_clock_time',['../structSetSysEulaVersion.html#a8cc1eeb41cfcbd9d8a29f9effd858355',1,'SetSysEulaVersion']]],
+  ['next',['next',['../structAppletHookCookie.html#a3578ddaf6ad40c74c99a6abfefd93bd4',1,'AppletHookCookie::next()'],['../structAudioInBuffer.html#a031d8d5356edab21476a506108f31998',1,'AudioInBuffer::next()'],['../structAudioOutBuffer.html#a92956f81a7e8e1d0a9250e5872b4623f',1,'AudioOutBuffer::next()']]],
+  ['nexthash',['nextHash',['../structromfs__dir.html#af957c0dda90285806b9973b29552781c',1,'romfs_dir::nextHash()'],['../structromfs__file.html#a6cedcd73580bdbd9370f2131eaeac43c',1,'romfs_file::nextHash()']]],
+  ['nickname',['nickname',['../structAccountProfileBase.html#adc0771f5049ff9643078b1343c46c7a6',1,'AccountProfileBase']]],
+  ['npad_5fjoy_5fhold_5ftype',['npad_joy_hold_type',['../structHidLaControllerSupportArgPrivate.html#a4fc1c724c0c4d948d4add66811cde6c7',1,'HidLaControllerSupportArgPrivate']]],
+  ['npad_5fstyle_5fset',['npad_style_set',['../structHidLaControllerSupportArgPrivate.html#a1131406c947e6956a6015389e3af15c1',1,'HidLaControllerSupportArgPrivate']]],
+  ['npadinterfacetype',['npadInterfaceType',['../structHiddbgHdlsDeviceInfoV7.html#a73d2b4bf4e5f58b90ad69e05a00c941a',1,'HiddbgHdlsDeviceInfoV7::npadInterfaceType()'],['../structHiddbgHdlsDeviceInfo.html#a528ad3bd103fbe8b02d8949073776f49',1,'HiddbgHdlsDeviceInfo::npadInterfaceType()'],['../structHiddbgAbstractedPadState.html#a04a23c604175c50e5613b98f9d070cd1',1,'HiddbgAbstractedPadState::npadInterfaceType()']]],
+  ['num_5fbsd_5fsessions',['num_bsd_sessions',['../structSocketInitConfig.html#a6f0f93e68998c61fe0c3deeb4239d059',1,'SocketInitConfig']]],
+  ['numbuffers',['NumBuffers',['../structIpcParsedCommand.html#ab6371bb7d715bbd1094a8e2ca5f9cfc9',1,'IpcParsedCommand']]],
+  ['numchars',['numChars',['../structConsoleFont.html#a741f70973f2dd71acdd7153ef3f7336d',1,'ConsoleFont']]],
+  ['numhandles',['NumHandles',['../structIpcParsedCommand.html#a100589702586a5abdf525422f9d4e86e',1,'IpcParsedCommand']]],
+  ['numstatics',['NumStatics',['../structIpcParsedCommand.html#abb5a7342270650aba586fdacbba54d88',1,'IpcParsedCommand']]],
+  ['numstaticsout',['NumStaticsOut',['../structIpcParsedCommand.html#a78df8a5cb6796dff24e80ae98aa56787',1,'IpcParsedCommand']]]
+];

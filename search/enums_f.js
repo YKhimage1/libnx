@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['setchinesetraditionalinputmethod',['SetChineseTraditionalInputMethod',['../set_8h.html#a3ebad0b3e0804b4c974c44ec677fc5c6',1,'set.h']]],
+  ['setkeyboardlayout',['SetKeyboardLayout',['../set_8h.html#a14b75028f4f49395bff627630e8b419e',1,'set.h']]],
+  ['setlanguage',['SetLanguage',['../set_8h.html#afb34ea7410f4eed7aac94077a6725430',1,'set.h']]],
+  ['setregion',['SetRegion',['../set_8h.html#a17a796eb324ad48d8198b68092cdbb82',1,'set.h']]],
+  ['setsysconsolesleepplan',['SetSysConsoleSleepPlan',['../set_8h.html#a1bb7806ee233ffc3320daef3e4ec5317',1,'set.h']]],
+  ['setsyserrorreportsharepermission',['SetSysErrorReportSharePermission',['../set_8h.html#a91dc6c666831e9fbe6e0972d4e92554f',1,'set.h']]],
+  ['setsyseulaversionclocktype',['SetSysEulaVersionClockType',['../set_8h.html#ab2c72550b79d1903acde960912d9d25a',1,'set.h']]],
+  ['setsysfriendpresenceoverlaypermission',['SetSysFriendPresenceOverlayPermission',['../set_8h.html#a5aad6b0b143ca9d7d67e4aa5c712a6c1',1,'set.h']]],
+  ['setsyshandheldsleepplan',['SetSysHandheldSleepPlan',['../set_8h.html#af08b63dcd5b8cc36baf29a032e9a1ab9',1,'set.h']]],
+  ['setsysnotificationvolume',['SetSysNotificationVolume',['../set_8h.html#a1d115c5cba47c6bc99b790dd73fc4cd5',1,'set.h']]],
+  ['setsysplatformregion',['SetSysPlatformRegion',['../set_8h.html#a2bb7f857721fada7506faa2f9138e7ee',1,'set.h']]],
+  ['setsysprimaryalbumstorage',['SetSysPrimaryAlbumStorage',['../set_8h.html#a953266b5e42815ba0da64f4a3d402036',1,'set.h']]],
+  ['setsystouchscreenmode',['SetSysTouchScreenMode',['../set_8h.html#a8abda250ab93bd6fc69e793d66d78e8a',1,'set.h']]],
+  ['setsysuserselectorflag',['SetSysUserSelectorFlag',['../set_8h.html#a316e5c986f5769ba57fbbac05625b237',1,'set.h']]],
+  ['swkbdinlinemode',['SwkbdInlineMode',['../swkbd_8h.html#a96e8ae591e36a9ecb404e6c18094a851',1,'swkbd.h']]],
+  ['swkbdreplytype',['SwkbdReplyType',['../swkbd_8h.html#a9e0b5d47190663d3664748f8081b9ef9',1,'swkbd.h']]],
+  ['swkbdrequestcommand',['SwkbdRequestCommand',['../swkbd_8h.html#ac2d5499e6949b6685e4a52e432c09b13',1,'swkbd.h']]],
+  ['swkbdstate',['SwkbdState',['../swkbd_8h.html#a73a62ecdd7bddc71287ee041be29a649',1,'swkbd.h']]],
+  ['swkbdtextcheckresult',['SwkbdTextCheckResult',['../swkbd_8h.html#af5a92b24d6a29e2fd04f86492d766c29',1,'swkbd.h']]],
+  ['swkbdtextdrawtype',['SwkbdTextDrawType',['../swkbd_8h.html#a431709abb8842bb88d1305a5394b0418',1,'swkbd.h']]],
+  ['swkbdtype',['SwkbdType',['../swkbd_8h.html#ad88d214560b9bbaf1391cc7013ab4387',1,'swkbd.h']]],
+  ['systeminfotype',['SystemInfoType',['../svc_8h.html#ac393e8184d6ce5a10a4b9940bbc4efd2',1,'svc.h']]]
+];

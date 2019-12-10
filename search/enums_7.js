@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['hidcontrollercolordescription',['HidControllerColorDescription',['../hid_8h.html#abae14cd338c287136f0ec892d763ee8f',1,'hid.h']]],
+  ['hidcontrollerconnectionstate',['HidControllerConnectionState',['../hid_8h.html#a4579b9e75415317ff54cb423408d8105',1,'hid.h']]],
+  ['hidcontrollerid',['HidControllerID',['../hid_8h.html#a16286f427e9c419d48a2214e4b53da07',1,'hid.h']]],
+  ['hidcontrollerjoystick',['HidControllerJoystick',['../hid_8h.html#affda4812391637d89052b5f4f52d71d3',1,'hid.h']]],
+  ['hidcontrollerkeys',['HidControllerKeys',['../hid_8h.html#ae829d22473d2e99ee1157f6e2d526b95',1,'hid.h']]],
+  ['hidcontrollerlayouttype',['HidControllerLayoutType',['../hid_8h.html#aa465f1d3da0d3a873139e48e8bf4703c',1,'hid.h']]],
+  ['hidcontrollertype',['HidControllerType',['../hid_8h.html#a819ab4498758cba343f9f32dfa30de21',1,'hid.h']]],
+  ['hiddevicetype',['HidDeviceType',['../hid_8h.html#a871049dbd8a3a280a9818aad02c57742',1,'hid.h']]],
+  ['hiddevicetypebits',['HidDeviceTypeBits',['../hid_8h.html#a5a237ed5f8a433e3851769d709d9daa6',1,'hid.h']]],
+  ['hidjoyholdtype',['HidJoyHoldType',['../hid_8h.html#a92336abadd8d6b1de4d64e0168dbb7c7',1,'hid.h']]],
+  ['hidkeyboardmodifier',['HidKeyboardModifier',['../hid_8h.html#a030c60c77d0a666264ac0f71ac00d88e',1,'hid.h']]],
+  ['hidkeyboardscancode',['HidKeyboardScancode',['../hid_8h.html#ad270dd6491e026f6af9856f62133cff7',1,'hid.h']]],
+  ['hidlacontrollersupportcaller',['HidLaControllerSupportCaller',['../hid__la_8h.html#a5952cc25f63d2dbf5137e4d6b8db89b1',1,'hid_la.h']]],
+  ['hidlacontrollersupportmode',['HidLaControllerSupportMode',['../hid__la_8h.html#a75b219654f065a578c76363c3d5c856d',1,'hid_la.h']]],
+  ['hidmousebutton',['HidMouseButton',['../hid_8h.html#a376eb0c7b0ea74200e90faf0ae35b942',1,'hid.h']]],
+  ['hidnpadinterfacetype',['HidNpadInterfaceType',['../hid_8h.html#a64d1b614324de638c99c43de024386e0',1,'hid.h']]]
+];
