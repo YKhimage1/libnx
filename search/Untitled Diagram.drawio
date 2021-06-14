@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T16:03:34.460Z" agent="5.0 (X11)" etag="niL_jD_EAL8MxF1DWuWL" version="14.7.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-14T16:25:41.254Z" agent="5.0 (X11)" etag="XfM788ysRH2qxZMfMzXN" version="14.7.6" type="github" pages="4">
   <diagram id="PQvo7xNXRfopdosZ4BcQ" name="Page-1">
-    <mxGraphModel dx="1492" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6eGUBX210qVqV-tNmfSK" name="Page-2">
-    <mxGraphModel dx="2661" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2319" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="bquIhY8je3ygtMC0kqjp-0" />
         <mxCell id="bquIhY8je3ygtMC0kqjp-1" parent="bquIhY8je3ygtMC0kqjp-0" />
@@ -188,7 +188,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0sdjwj53GWiiBrs7HkVB" name="Page-3">
-    <mxGraphModel dx="2113" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="XrOIozyT6mBp8YTSmQO2-0" />
         <mxCell id="XrOIozyT6mBp8YTSmQO2-1" parent="XrOIozyT6mBp8YTSmQO2-0" />
@@ -257,11 +257,14 @@
         <mxCell id="r2tEjJnS6pML0kwBwC74-7" value="Envoi des donnés (RPMsg)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
           <mxGeometry x="810" y="390" width="200" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="QJjOn-ymKkS9h2ZsE_IC-0" value="Schéma synoptique du code : Capteur de distance par ultrasons" style="swimlane;fontSize=20;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
+          <mxGeometry x="270" y="130" width="760" height="600" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-CGWU9y8sjAIRygRteYr" name="Page-4">
-    <mxGraphModel dx="1492" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="bo1jI08zntYHztdBlXlo-0" />
         <mxCell id="bo1jI08zntYHztdBlXlo-1" parent="bo1jI08zntYHztdBlXlo-0" />
