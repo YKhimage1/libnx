@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T10:16:52.528Z" agent="5.0 (X11)" etag="eGTQBHAiAiOcPLLsbAgT" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-14T10:25:24.713Z" agent="5.0 (X11)" etag="g9lRRJz9ZxTojFvDCYC_" version="14.7.6" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
-    <mxGraphModel dx="1308" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,10 +37,10 @@
         <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1&gt;Prise en main&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Utilisation des différents logiciels de la Beaglebone Black.&lt;br&gt;Création du pilote capteur ultrason&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="319" y="250" width="215" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;Développement&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Conception du module I2C pour pouvoir communiquer avec le capteur 9 axes central inertielle&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;Développement&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Conception du module I2C sur le PRU&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="545" y="430" width="215" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;Développement&lt;br&gt;&lt;/h1&gt;Conception du module I2C sur le noyau Linux et du pilote pour le capteur 9 axes central inertielle" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="773" y="250" width="215" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ql4BzGPezzEzsd64cwlb-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" vertex="1" parent="1">
@@ -70,7 +70,7 @@
         <mxCell id="ql4BzGPezzEzsd64cwlb-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
           <mxGeometry x="1780" y="395" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ql4BzGPezzEzsd64cwlb-10" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ql4BzGPezzEzsd64cwlb-10" value="&lt;h1&gt;Développement&lt;/h1&gt;&lt;p&gt;Conception du pilote en I2C pour la carte moteur, du module eQEP sous le PRU et de la communication Linux/PRU&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1003" y="430" width="215" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ql4BzGPezzEzsd64cwlb-11" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
