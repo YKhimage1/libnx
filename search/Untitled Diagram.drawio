@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T13:07:42.877Z" agent="5.0 (X11)" etag="LWFLUnjTvdzVNCT1tCMD" version="14.7.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-14T13:12:53.738Z" agent="5.0 (X11)" etag="tyHrulOorO7K0ccLrYSB" version="14.7.6" type="github" pages="4">
   <diagram id="PQvo7xNXRfopdosZ4BcQ" name="Page-1">
     <mxGraphModel dx="1268" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -182,7 +182,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0sdjwj53GWiiBrs7HkVB" name="Page-3">
-    <mxGraphModel dx="2536" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1811" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="XrOIozyT6mBp8YTSmQO2-0" />
         <mxCell id="XrOIozyT6mBp8YTSmQO2-1" parent="XrOIozyT6mBp8YTSmQO2-0" />
@@ -207,7 +207,7 @@
         <mxCell id="vAWoagmoS1j0I5_H6aUn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XrOIozyT6mBp8YTSmQO2-1" source="vAWoagmoS1j0I5_H6aUn-10" target="vAWoagmoS1j0I5_H6aUn-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vAWoagmoS1j0I5_H6aUn-10" value="Attente du fond montant du GPIO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
+        <mxCell id="vAWoagmoS1j0I5_H6aUn-10" value="Attente du fond descendant du GPIO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
           <mxGeometry x="310" y="540" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vAWoagmoS1j0I5_H6aUn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XrOIozyT6mBp8YTSmQO2-1" source="vAWoagmoS1j0I5_H6aUn-15" target="vAWoagmoS1j0I5_H6aUn-17">
@@ -216,8 +216,24 @@
         <mxCell id="vAWoagmoS1j0I5_H6aUn-15" value="Démarage du Ticker" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
           <mxGeometry x="310" y="690" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vAWoagmoS1j0I5_H6aUn-17" value="Attente du fond descendant du GPIO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
+        <mxCell id="r2tEjJnS6pML0kwBwC74-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XrOIozyT6mBp8YTSmQO2-1" source="vAWoagmoS1j0I5_H6aUn-17" target="r2tEjJnS6pML0kwBwC74-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vAWoagmoS1j0I5_H6aUn-17" value="Attente du fond montant du GPIO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
           <mxGeometry x="310" y="810" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r2tEjJnS6pML0kwBwC74-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XrOIozyT6mBp8YTSmQO2-1" source="r2tEjJnS6pML0kwBwC74-0" target="vAWoagmoS1j0I5_H6aUn-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="1080" />
+              <mxPoint x="270" y="1080" />
+              <mxPoint x="270" y="160" />
+              <mxPoint x="410" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2tEjJnS6pML0kwBwC74-0" value="Extinction du Ticker et mesure du temps écoulé" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
+          <mxGeometry x="310" y="960" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
