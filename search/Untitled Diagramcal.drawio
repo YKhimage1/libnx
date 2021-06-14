@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T10:33:38.168Z" agent="5.0 (X11)" etag="18moF6Fzuju1RyOY2ZBL" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-14T11:15:39.516Z" agent="5.0 (X11)" etag="_Y7Mpl7xkLIHibErfzjB" version="14.7.6" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1308" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=2;" edge="1" parent="1" source="4ec97bd9e5d20128-1" target="-34L4uLcYQGxv2R2MBS7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="40" y="400" width="1000" height="10" as="geometry" />
+          <mxGeometry x="40" y="400" width="1190" height="10" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-5" value="Semaine 1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="340" width="160" height="40" as="geometry" />
@@ -43,44 +46,62 @@
         <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;Développement&lt;br&gt;&lt;/h1&gt;Conception du module I2C sur le noyau Linux et du pilote pour le capteur 9 axes central inertielle" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="773" y="250" width="215" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ql4BzGPezzEzsd64cwlb-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="950" y="400" width="1000" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="ql4BzGPezzEzsd64cwlb-2" value="Semaine 5" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="340" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ql4BzGPezzEzsd64cwlb-3" value="&lt;div&gt;Semaine 7&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1483" y="340" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ql4BzGPezzEzsd64cwlb-4" value="Semaine 6" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
-          <mxGeometry x="1257" y="425" width="160" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="ql4BzGPezzEzsd64cwlb-5" value="Semaine 8" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
-          <mxGeometry x="1710" y="425" width="160" height="35" as="geometry" />
+          <mxGeometry x="1027" y="340" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ql4BzGPezzEzsd64cwlb-6" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="1097" y="395" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ql4BzGPezzEzsd64cwlb-7" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="1327" y="395" width="20" height="20" as="geometry" />
+        <mxCell id="ql4BzGPezzEzsd64cwlb-10" value="&lt;h1&gt;Développement&lt;/h1&gt;&lt;p&gt;Conception du pilote en I2C pour la carte moteur et du module eQEP&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="430" width="215" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ql4BzGPezzEzsd64cwlb-8" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="1553" y="395" width="20" height="20" as="geometry" />
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-4" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="40" y="730" width="1190" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ql4BzGPezzEzsd64cwlb-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="1780" y="395" width="20" height="20" as="geometry" />
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-5" value="Semaine 6" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ql4BzGPezzEzsd64cwlb-10" value="&lt;h1&gt;Développement&lt;/h1&gt;&lt;p&gt;Conception du pilote en I2C pour la carte moteur&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1003" y="430" width="215" height="120" as="geometry" />
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-6" value="&lt;div&gt;Semaine 8&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="573" y="680" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ql4BzGPezzEzsd64cwlb-11" value="&lt;h1&gt;Développement&lt;/h1&gt;&lt;p&gt;Conception du module eQEP sous le PRU et de la communication Linux/PRU&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1229" y="250" width="215" height="120" as="geometry" />
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-7" value="Semaine 7" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="347" y="765" width="160" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ql4BzGPezzEzsd64cwlb-12" value="&lt;h1&gt;Réalisation&lt;/h1&gt;&lt;p&gt;Assemblage et prise en main du robot auto stabilisant.&lt;br&gt;Assemblages des différents modules créés&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1455" y="430" width="215" height="120" as="geometry" />
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-8" value="Semaine 9" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="800" y="765" width="160" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ql4BzGPezzEzsd64cwlb-13" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1683" y="250" width="215" height="120" as="geometry" />
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="190" y="735" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="417" y="735" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="643" y="735" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-12" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="870" y="735" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-13" value="&lt;h1&gt;Développement&lt;/h1&gt;&lt;p&gt;Finalisation du module eQEP sous le PRU et conception de&amp;nbsp; la communication Linux/PRU&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="93" y="770" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-14" value="&lt;h1&gt;Réalisation&lt;/h1&gt;&lt;p&gt;Assemblage et prise en main du robot auto stabilisant.&lt;br&gt;Assemblages des différents modules créés&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="590" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-15" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="770" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-16" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="773" y="590" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-17" value="Semaine 10" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1027" y="680" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1097" y="735" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-34L4uLcYQGxv2R2MBS7-19" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="770" width="215" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
