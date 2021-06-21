@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T07:50:17.445Z" agent="5.0 (X11)" etag="deycreFHY_dYVWz5VtCn" version="14.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-21T12:13:11.626Z" agent="5.0 (X11)" etag="W--kbMrpCkNCm42b1wiR" version="14.8.0" type="github" pages="4">
   <diagram id="PQvo7xNXRfopdosZ4BcQ" name="Page-1">
     <mxGraphModel dx="1038" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -264,18 +264,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-CGWU9y8sjAIRygRteYr" name="Page-4">
-    <mxGraphModel dx="1209" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="bo1jI08zntYHztdBlXlo-0" />
         <mxCell id="bo1jI08zntYHztdBlXlo-1" parent="bo1jI08zntYHztdBlXlo-0" />
-        <mxCell id="L_jnIyX53hcIJdiAWILP-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;" edge="1" parent="bo1jI08zntYHztdBlXlo-1" source="L_jnIyX53hcIJdiAWILP-1" target="L_jnIyX53hcIJdiAWILP-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-5" value="Initialisation du module RPMsg" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;verticalAlign=top;" vertex="1" parent="bo1jI08zntYHztdBlXlo-1">
+          <mxGeometry y="80" width="380" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="L_jnIyX53hcIJdiAWILP-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Récupération de la trame de données&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="bo1jI08zntYHztdBlXlo-1">
-          <mxGeometry x="310" y="180" width="200" height="70" as="geometry" />
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-6" value="Création de la liaison PRU/ARM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-5">
+          <mxGeometry y="26" width="380" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="L_jnIyX53hcIJdiAWILP-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Traitement de la donné&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="bo1jI08zntYHztdBlXlo-1">
-          <mxGeometry x="310" y="300" width="200" height="70" as="geometry" />
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-7" value="Création de l&#39;interface RPMsg " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-5">
+          <mxGeometry y="52" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-8" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-5">
+          <mxGeometry y="78" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-9" value="Initialisation du module RPMsg" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;verticalAlign=top;" vertex="1" parent="bo1jI08zntYHztdBlXlo-1">
+          <mxGeometry y="230" width="380" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-10" value="Création de la liaison PRU/ARM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-9">
+          <mxGeometry y="26" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-11" value="Création de l&#39;interface RPMsg " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-9">
+          <mxGeometry y="52" width="380" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
