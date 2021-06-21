@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T12:13:11.626Z" agent="5.0 (X11)" etag="W--kbMrpCkNCm42b1wiR" version="14.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-21T12:16:59.035Z" agent="5.0 (X11)" etag="T4MyD9vAJWFgvCR8lSbL" version="14.8.0" type="github" pages="4">
   <diagram id="PQvo7xNXRfopdosZ4BcQ" name="Page-1">
     <mxGraphModel dx="1038" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -264,7 +264,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-CGWU9y8sjAIRygRteYr" name="Page-4">
-    <mxGraphModel dx="1038" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="bo1jI08zntYHztdBlXlo-0" />
         <mxCell id="bo1jI08zntYHztdBlXlo-1" parent="bo1jI08zntYHztdBlXlo-0" />
@@ -280,14 +280,29 @@
         <mxCell id="1QqT4a9iylw_a9Fq6U2l-8" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-5">
           <mxGeometry y="78" width="380" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1QqT4a9iylw_a9Fq6U2l-9" value="Initialisation du module RPMsg" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;verticalAlign=top;" vertex="1" parent="bo1jI08zntYHztdBlXlo-1">
-          <mxGeometry y="230" width="380" height="78" as="geometry" />
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-9" value="Attente du noyau ARM" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;verticalAlign=top;" vertex="1" parent="bo1jI08zntYHztdBlXlo-1">
+          <mxGeometry y="230" width="380" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="1QqT4a9iylw_a9Fq6U2l-10" value="Création de la liaison PRU/ARM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-9">
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-10" value="Attente de la réception du Dummy Byte" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-9">
           <mxGeometry y="26" width="380" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1QqT4a9iylw_a9Fq6U2l-11" value="Création de l&#39;interface RPMsg " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-9">
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-11" value="Verification du Dummy Byte " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-9">
           <mxGeometry y="52" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-14" value="Récupération des valeurs destination et source" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-9">
+          <mxGeometry y="78" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-15" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;verticalAlign=top;" vertex="1" parent="bo1jI08zntYHztdBlXlo-1">
+          <mxGeometry x="-180" y="410" width="380" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-16" value="Attente de la réception du Dummy Byte" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-15">
+          <mxGeometry y="26" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-17" value="Verification du Dummy Byte " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-15">
+          <mxGeometry y="52" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-18" value="Récupération des valeurs destination et source" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-15">
+          <mxGeometry y="78" width="380" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
