@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T12:23:20.588Z" agent="5.0 (X11)" etag="E6SkbNx-Ki6xOWGodFjF" version="14.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-21T12:24:00.153Z" agent="5.0 (X11)" etag="1JIGKQdKAhEmvsR_4VEe" version="14.8.0" type="github" pages="4">
   <diagram id="PQvo7xNXRfopdosZ4BcQ" name="Page-1">
     <mxGraphModel dx="1038" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -316,13 +316,13 @@
         <mxCell id="1QqT4a9iylw_a9Fq6U2l-26" value="Initialisation du module RPMsg" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;verticalAlign=top;" vertex="1" parent="bo1jI08zntYHztdBlXlo-1">
           <mxGeometry x="440" y="60" width="380" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="1QqT4a9iylw_a9Fq6U2l-27" value="Attente de la disponibilité de l&#39;interface RPMsg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-26">
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-28" value="Création du contrôleur d’interface" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-26">
           <mxGeometry y="26" width="380" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1QqT4a9iylw_a9Fq6U2l-28" value="Création du contrôleur d’interface" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-26">
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-27" value="Attente de la disponibilité de l&#39;interface RPMsg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-26">
           <mxGeometry y="52" width="380" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1QqT4a9iylw_a9Fq6U2l-29" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-26">
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-29" value="Assignation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1QqT4a9iylw_a9Fq6U2l-26">
           <mxGeometry y="78" width="380" height="26" as="geometry" />
         </mxCell>
       </root>
