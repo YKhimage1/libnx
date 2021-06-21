@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T13:27:25.563Z" agent="5.0 (X11)" etag="IsolGfXDoTxNcKOT5rSx" version="14.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-21T13:28:30.433Z" agent="5.0 (X11)" etag="iBCeS9QXV3Xnsw-J-554" version="14.8.0" type="github" pages="4">
   <diagram id="PQvo7xNXRfopdosZ4BcQ" name="Page-1">
     <mxGraphModel dx="1038" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -264,7 +264,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-CGWU9y8sjAIRygRteYr" name="Page-4">
-    <mxGraphModel dx="1888" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2580" dy="2007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="bo1jI08zntYHztdBlXlo-0" />
         <mxCell id="bo1jI08zntYHztdBlXlo-1" parent="bo1jI08zntYHztdBlXlo-0" />
@@ -409,6 +409,9 @@
         </mxCell>
         <mxCell id="1QqT4a9iylw_a9Fq6U2l-55" value="Noyau Linux" style="swimlane;verticalAlign=top;" vertex="1" parent="bo1jI08zntYHztdBlXlo-1">
           <mxGeometry x="425" y="20" width="440" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="1QqT4a9iylw_a9Fq6U2l-57" value="Schéma de la communication PRU/Noyau Linux" style="swimlane;verticalAlign=top;" vertex="1" parent="bo1jI08zntYHztdBlXlo-1">
+          <mxGeometry x="-40" y="-36" width="930" height="636" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
