@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T16:25:41.254Z" agent="5.0 (X11)" etag="XfM788ysRH2qxZMfMzXN" version="14.7.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-21T07:50:17.445Z" agent="5.0 (X11)" etag="deycreFHY_dYVWz5VtCn" version="14.8.0" type="github" pages="4">
   <diagram id="PQvo7xNXRfopdosZ4BcQ" name="Page-1">
-    <mxGraphModel dx="1209" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,14 +47,14 @@
             <mxPoint x="144.5" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5_RPlH2k_kDjAeYrfVRw-1" value="Comparatif synoptique Haut-Niveau / Bare-Metal" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="5_RPlH2k_kDjAeYrfVRw-1" value="Comparatif synoptique Haut-Niveau / Bare-Metal" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="720" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="6eGUBX210qVqV-tNmfSK" name="Page-2">
-    <mxGraphModel dx="2319" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="bquIhY8je3ygtMC0kqjp-0" />
         <mxCell id="bquIhY8je3ygtMC0kqjp-1" parent="bquIhY8je3ygtMC0kqjp-0" />
@@ -181,36 +181,36 @@
         <mxCell id="MeYwZd2Jr7Yw33sIO1QU-14" value="Arbre de transmission " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bquIhY8je3ygtMC0kqjp-1" vertex="1">
           <mxGeometry x="860" y="60" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rMvC_y6-v2WfeWPJFbQI-0" value="Schéma synoptique de la réalisation final : Robot Auto-stabilisant" style="swimlane;" vertex="1" parent="bquIhY8je3ygtMC0kqjp-1">
+        <mxCell id="rMvC_y6-v2WfeWPJFbQI-0" value="Schéma synoptique de la réalisation final : Robot Auto-stabilisant" style="swimlane;" parent="bquIhY8je3ygtMC0kqjp-1" vertex="1">
           <mxGeometry x="-10" y="10" width="1120" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="0sdjwj53GWiiBrs7HkVB" name="Page-3">
-    <mxGraphModel dx="1713" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="XrOIozyT6mBp8YTSmQO2-0" />
         <mxCell id="XrOIozyT6mBp8YTSmQO2-1" parent="XrOIozyT6mBp8YTSmQO2-0" />
-        <mxCell id="vAWoagmoS1j0I5_H6aUn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;" edge="1" parent="XrOIozyT6mBp8YTSmQO2-1" source="vAWoagmoS1j0I5_H6aUn-6" target="vAWoagmoS1j0I5_H6aUn-7">
+        <mxCell id="vAWoagmoS1j0I5_H6aUn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;" parent="XrOIozyT6mBp8YTSmQO2-1" source="vAWoagmoS1j0I5_H6aUn-6" target="vAWoagmoS1j0I5_H6aUn-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vAWoagmoS1j0I5_H6aUn-6" value="Définition du GPIO en sortie" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
+        <mxCell id="vAWoagmoS1j0I5_H6aUn-6" value="Définition du GPIO en sortie" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" parent="XrOIozyT6mBp8YTSmQO2-1" vertex="1">
           <mxGeometry x="310" y="180" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vAWoagmoS1j0I5_H6aUn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XrOIozyT6mBp8YTSmQO2-1" source="vAWoagmoS1j0I5_H6aUn-7" target="vAWoagmoS1j0I5_H6aUn-8">
+        <mxCell id="vAWoagmoS1j0I5_H6aUn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="XrOIozyT6mBp8YTSmQO2-1" source="vAWoagmoS1j0I5_H6aUn-7" target="vAWoagmoS1j0I5_H6aUn-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vAWoagmoS1j0I5_H6aUn-7" value="Envoi d&#39;une impulsion (15µs)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
+        <mxCell id="vAWoagmoS1j0I5_H6aUn-7" value="Envoi d&#39;une impulsion (15µs)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" parent="XrOIozyT6mBp8YTSmQO2-1" vertex="1">
           <mxGeometry x="310" y="300" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vAWoagmoS1j0I5_H6aUn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XrOIozyT6mBp8YTSmQO2-1" source="vAWoagmoS1j0I5_H6aUn-8" target="vAWoagmoS1j0I5_H6aUn-10">
+        <mxCell id="vAWoagmoS1j0I5_H6aUn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="XrOIozyT6mBp8YTSmQO2-1" source="vAWoagmoS1j0I5_H6aUn-8" target="vAWoagmoS1j0I5_H6aUn-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vAWoagmoS1j0I5_H6aUn-8" value="Définition du GPIO en entré" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
+        <mxCell id="vAWoagmoS1j0I5_H6aUn-8" value="Configuration du GPIO en entré" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" parent="XrOIozyT6mBp8YTSmQO2-1" vertex="1">
           <mxGeometry x="310" y="420" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vAWoagmoS1j0I5_H6aUn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XrOIozyT6mBp8YTSmQO2-1" source="vAWoagmoS1j0I5_H6aUn-10" target="vAWoagmoS1j0I5_H6aUn-15">
+        <mxCell id="vAWoagmoS1j0I5_H6aUn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="XrOIozyT6mBp8YTSmQO2-1" source="vAWoagmoS1j0I5_H6aUn-10" target="vAWoagmoS1j0I5_H6aUn-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="410" y="710" />
@@ -220,28 +220,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vAWoagmoS1j0I5_H6aUn-10" value="Attente du fond descendant du GPIO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
+        <mxCell id="vAWoagmoS1j0I5_H6aUn-10" value="Attente du font descendant du GPIO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" parent="XrOIozyT6mBp8YTSmQO2-1" vertex="1">
           <mxGeometry x="310" y="540" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vAWoagmoS1j0I5_H6aUn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XrOIozyT6mBp8YTSmQO2-1" source="vAWoagmoS1j0I5_H6aUn-15" target="vAWoagmoS1j0I5_H6aUn-17">
+        <mxCell id="vAWoagmoS1j0I5_H6aUn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="XrOIozyT6mBp8YTSmQO2-1" source="vAWoagmoS1j0I5_H6aUn-15" target="vAWoagmoS1j0I5_H6aUn-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vAWoagmoS1j0I5_H6aUn-15" value="Démarage du Ticker" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
+        <mxCell id="vAWoagmoS1j0I5_H6aUn-15" value="Démarrage de l&#39;horloge" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" parent="XrOIozyT6mBp8YTSmQO2-1" vertex="1">
           <mxGeometry x="550" y="200" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="r2tEjJnS6pML0kwBwC74-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XrOIozyT6mBp8YTSmQO2-1" source="vAWoagmoS1j0I5_H6aUn-17" target="r2tEjJnS6pML0kwBwC74-0">
+        <mxCell id="r2tEjJnS6pML0kwBwC74-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="XrOIozyT6mBp8YTSmQO2-1" source="vAWoagmoS1j0I5_H6aUn-17" target="r2tEjJnS6pML0kwBwC74-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vAWoagmoS1j0I5_H6aUn-17" value="Attente du fond montant du GPIO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
+        <mxCell id="vAWoagmoS1j0I5_H6aUn-17" value="Attente du font montant du GPIO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" parent="XrOIozyT6mBp8YTSmQO2-1" vertex="1">
           <mxGeometry x="550" y="320" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="r2tEjJnS6pML0kwBwC74-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XrOIozyT6mBp8YTSmQO2-1" source="r2tEjJnS6pML0kwBwC74-0" target="r2tEjJnS6pML0kwBwC74-3">
+        <mxCell id="r2tEjJnS6pML0kwBwC74-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="XrOIozyT6mBp8YTSmQO2-1" source="r2tEjJnS6pML0kwBwC74-0" target="r2tEjJnS6pML0kwBwC74-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r2tEjJnS6pML0kwBwC74-0" value="Extinction du Ticker et mesure du temps écoulé" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
+        <mxCell id="r2tEjJnS6pML0kwBwC74-0" value="Extinction du Ticker et mesure du temps écoulé" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" parent="XrOIozyT6mBp8YTSmQO2-1" vertex="1">
           <mxGeometry x="550" y="470" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="r2tEjJnS6pML0kwBwC74-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XrOIozyT6mBp8YTSmQO2-1" source="r2tEjJnS6pML0kwBwC74-3" target="r2tEjJnS6pML0kwBwC74-7">
+        <mxCell id="r2tEjJnS6pML0kwBwC74-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XrOIozyT6mBp8YTSmQO2-1" source="r2tEjJnS6pML0kwBwC74-3" target="r2tEjJnS6pML0kwBwC74-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="880" y="330" as="targetPoint" />
             <Array as="points">
@@ -251,13 +251,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r2tEjJnS6pML0kwBwC74-3" value="Traitement du temps écoulé" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
+        <mxCell id="r2tEjJnS6pML0kwBwC74-3" value="Traitement du temps écoulé" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" parent="XrOIozyT6mBp8YTSmQO2-1" vertex="1">
           <mxGeometry x="550" y="620" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="r2tEjJnS6pML0kwBwC74-7" value="Envoi des donnés (RPMsg)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
+        <mxCell id="r2tEjJnS6pML0kwBwC74-7" value="Envoi des donnés (RPMsg)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily= Corbel ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BCorbel%2B;fontSize=28;align=center;" parent="XrOIozyT6mBp8YTSmQO2-1" vertex="1">
           <mxGeometry x="810" y="390" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QJjOn-ymKkS9h2ZsE_IC-0" value="Schéma synoptique du code : Capteur de distance par ultrasons" style="swimlane;fontSize=20;" vertex="1" parent="XrOIozyT6mBp8YTSmQO2-1">
+        <mxCell id="QJjOn-ymKkS9h2ZsE_IC-0" value="Schéma synoptique du code : Capteur de distance par ultrasons" style="swimlane;fontSize=20;" parent="XrOIozyT6mBp8YTSmQO2-1" vertex="1">
           <mxGeometry x="270" y="130" width="760" height="600" as="geometry" />
         </mxCell>
       </root>
